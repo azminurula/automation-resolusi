@@ -2,3 +2,4 @@ Automation Resolusi
 - Dapat menguasai dan menerapkan seluruh alur flow automation tools testing pada perusahaan
 - Perform Test Automation and set up frameworks di berbagai application platforms seperti Web, Mobile dan Desktop
 - Dapat menguasai Performance & Security Testing
+- Pemahaman yang mahir tentang alat pembuatan versi kode seperti GitHub, Bitbucket, SVN, platform Google Cloud versi Git Google, Google Cloud Source

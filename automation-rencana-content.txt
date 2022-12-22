@@ -1,0 +1,9 @@
+Rencana Konten Automation Testing
+- Katalon Studio
+  * Reporting
+  * TestOps
+- Integrasi katalon dengan git
+- Selenium
+- Jmeter
+- Appium
+- Test Plan Management

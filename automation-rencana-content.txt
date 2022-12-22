@@ -2,6 +2,7 @@ Rencana Konten Automation Testing
 - Katalon Studio
   * Reporting
   * TestOps
+- Mobile Testing
 - Integrasi katalon dengan git
 - Selenium
 - Jmeter

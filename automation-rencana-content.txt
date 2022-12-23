@@ -1,10 +1,13 @@
 Rencana Konten Automation Testing
 - Katalon Studio
   * Reporting
+    ^ Skenario Test Case
   * TestOps
 - Mobile Testing
+  ^ Automation Testing mobile menggunakan katalon
 - Integrasi katalon dengan git
 - Selenium
 - Jmeter
 - Appium
 - Test Plan Management
+- RestApi testing

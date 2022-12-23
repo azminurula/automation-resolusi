@@ -2,6 +2,7 @@ Rencana Konten Automation Testing
 - Katalon Studio
   * Reporting
     ^ Keyword Element dan Test Suites
+    ^ Skenario Test Case
     ^ Report dalam bentuk pdf dan browser
   * TestOps
 - Mobile Testing
@@ -10,3 +11,4 @@ Rencana Konten Automation Testing
 - Jmeter
 - Appium
 - Test Plan Management
+- RestApi testing
